@@ -10,3 +10,11 @@ editor: visual
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
 ## 
+
+Add some awesome text
+
+```{r}
+cool_code <- c(1,2,3)
+```
+
+wow lots of good githubbings today
