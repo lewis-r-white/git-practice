@@ -18,3 +18,7 @@ cool_code <- c(1,2,3)
 ```
 
 wow lots of good githubbings today
+
+```{r}
+wombat <- c("Wombat", "Australia")
+```
